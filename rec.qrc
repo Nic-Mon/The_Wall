@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>JonSnow.jpg</file>
+        <file>Walker.jpg</file>
+        <file>queen.png</file>
+        <file>rook.png</file>
+        <file>bishop.png</file>
+        <file>knight.png</file>
+        <file>Instructions.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>GoTmusic.wav</file>
+        <file>GoTmusic.mp3</file>
+    </qresource>
+</RCC>
